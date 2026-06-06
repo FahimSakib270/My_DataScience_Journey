@@ -1,4 +1,4 @@
-# Print numbers from 1 to 10 using a while loop.
+# # Print numbers from 1 to 10 using a while loop.
 # num = 1 
 # while num<11:
 #     print(num)
@@ -12,3 +12,10 @@
 #     userPass = int(input("enter password "))
 
 # print("access")
+
+# reverse a number 
+
+num = 1234
+strNum = str(num)
+revNum = int(strNum[::-1])
+print(revNum)
