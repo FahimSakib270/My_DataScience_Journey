@@ -1,0 +1,6 @@
+
+My name is Fahim. 
+I like using Python.
+My favourite Package is pandas
+
+Now  i am in Wuhan. Studying at HBUT. School of Cst
